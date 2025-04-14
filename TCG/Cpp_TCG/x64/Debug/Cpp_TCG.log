@@ -1,0 +1,13 @@
+﻿  GameStart.cpp
+  main.cpp
+  Option.cpp
+C:\Users\kik48\Desktop\TCG\TCG\Cpp_TCG\Option.cpp(5,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\kik48\Desktop\TCG\TCG\Cpp_TCG\Option.cpp(5,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Player.cpp
+  Title.cpp
+C:\Users\kik48\Desktop\TCG\TCG\Cpp_TCG\Title.cpp(3,6): error C2086: 'char title[10][21]': 재정의
+      C:\Users\kik48\Desktop\TCG\TCG\Cpp_TCG\Title.h(8,6):
+      'title' 선언을 참조하십시오.
+  
+  UI.cpp
+  코드를 생성하고 있습니다...
